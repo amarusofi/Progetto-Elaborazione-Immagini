@@ -19,4 +19,4 @@ Per avviare l’applicazione, eseguire la funzione `tetris_puzzle.m` inserendo c
 ```
 
 ## La presentazione
-La presentazione del progetto si può scaricare cliccando [qui](https://github.com/gdepianto/progetto_elaborazioni_immagini/raw/main/Tetris%20Puzzle.pdf).
+La presentazione del progetto può essere scaricata cliccando [qui](https://github.com/gdepianto/progetto_elaborazioni_immagini/raw/main/Tetris%20Puzzle.pdf).
